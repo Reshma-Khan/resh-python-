@@ -1,0 +1,2 @@
+# resh-python-
+basics
